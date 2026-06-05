@@ -51,4 +51,3 @@ Excel | SQL | Power BI | Tableau | Python
 K. Venkata Sai Reddy
 Aspiring Data Analyst
 LinkedIn: [www.linkedin.com/in/venkata-sai-23az](http://www.linkedin.com/in/venkata-sai-23az)
-GitHub: github.com/venkatasaii15
